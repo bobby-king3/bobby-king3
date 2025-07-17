@@ -7,7 +7,7 @@ Passionate about leveraging data science and analytics in sports.
 ## Projects:
 - [Portfolio](https://github.com/bobby-king3/data-projects) - Sports analytics and data projects
 
-## Tech:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
