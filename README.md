@@ -5,7 +5,7 @@ Baseball Data Engineer at Milwaukee Brewers ⚾, previously data analyst at BetR
 Passionate about leveraging data science and analytics in sports.
 
 ## Projects:
-- [Data Science Portfolio](https://github.com/bobby-king3/data-projects) - Sports analytics and data projects
+- [Portfolio](https://github.com/bobby-king3/data-projects) - Sports analytics and data projects
 
 ## Tech:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
