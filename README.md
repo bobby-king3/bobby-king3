@@ -1,6 +1,6 @@
 # Bobby King
 
-Baseball Data Engineer at Milwaukee Brewers ⚾, previously Data Analyst at BetRivers 🎰.
+Baseball Data Engineer at Milwaukee Brewers ⚾, previously Data Analyst at BetRivers 🏈.
 
 Passionate about leveraging data science and analytics in sports.
 
