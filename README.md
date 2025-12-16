@@ -1,6 +1,6 @@
 # Bobby King
 
-Passionate about leveraging data science and analytics in sports.
+Sports data science
 
 ## Projects:
 - [Portfolio](https://github.com/bobby-king3/data-projects) - Sports analytics and data projects
