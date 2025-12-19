@@ -1,9 +1,9 @@
 # Bobby King
 
-Sports data science
+Sports analytics • Data Engineering • Python
 
 ## Projects:
-- [Portfolio](https://github.com/bobby-king3/data-projects) - Sports analytics and data projects
+- **[Baseball Analytics in Python](https://github.com/bobby-king3/baseball-analytics-python)** - Statistical baseball analysis translated from R to Python
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
