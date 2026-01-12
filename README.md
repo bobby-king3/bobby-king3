@@ -3,7 +3,7 @@
 Data Engineer | Sports Analytics & Machine Learning
 
 ## Projects:
-- **[Baseball Analytics in Python](https://github.com/bobby-king3/baseball-analytics-python)** - Statistical baseball analysis translated from R to Python
+- [Baseball Analytics in Python](https://github.com/bobby-king3/baseball-analytics-python) - Statistical baseball analysis translated from R to Python
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
