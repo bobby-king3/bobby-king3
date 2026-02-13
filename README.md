@@ -1,6 +1,6 @@
 # Bobby King
 
-Data Engineer | Sports Analytics & Machine Learning
+Data Engineer | Sports Analytics
 
 ## Projects:
 - [Baseball Analytics in Python](https://github.com/bobby-king3/baseball-analytics-python) - Statistical baseball analysis translated from R to Python
