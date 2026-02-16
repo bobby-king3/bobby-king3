@@ -3,6 +3,7 @@
 Data Engineer | Sports Analytics
 
 ## Projects:
+- [NFL Market Movement Tracker](https://github.com/bobby-king3/nfl-market-movement-tracker) - ELT pipeline tracking NFL line movements across 32 operators using Python, DuckDB, and dbt in the 2025-2026 season([Live Dashboard](https://nfl-market-movement-tracker-a2fnqqz4jfhdlbzxhzvx9q.streamlit.app/))
 - [Baseball Analytics in Python](https://github.com/bobby-king3/baseball-analytics-python) - Statistical baseball analysis translated from R to Python
 
 ## Tech Stack:
@@ -18,3 +19,5 @@ Data Engineer | Sports Analytics
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
