@@ -1,7 +1,5 @@
 # Bobby King
 
-Data Engineer | Sports Analytics
-
 ## Projects:
 - [NHL Shot Analytics](https://github.com/bobby-king3/nhl-shot-analytics) - ELT pipeline for NHL shot analytics combining NHL API play by play data with MoneyPuck xG metrics using Python, MotherDuck, and dbt — includes interactive team and player dashboard with shot maps, xG percentile rankings, and inline goal video playback ([Live Dashboard](https://nhl-shot-analytics.streamlit.app/))
 - [NFL Market Movement Tracker](https://github.com/bobby-king3/nfl-market-movement-tracker) - ELT pipeline tracking NFL market movements across operators using Python, DuckDB, and dbt in the 2025-2026 season ([Live Dashboard](https://nfl-market-movement-tracker-a2fnqqz4jfhdlbzxhzvx9q.streamlit.app/))
